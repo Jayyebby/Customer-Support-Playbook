@@ -1,10 +1,10 @@
 Customer Support & Operations Playbook
 
-# Hi, I'm Joy
+Hi, I'm Joy
 
 I enjoy helping customers solve problems, documenting processes, and improving customer experiences.This repository serves as a portfolio project demonstrating how I organize customer support workflows, write clear technical documentation, and translate customer feedback for engineering teams. 
 
-Skills
+# Skills
 
 - Customer Support
 - Email Support
