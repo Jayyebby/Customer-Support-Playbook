@@ -1,8 +1,8 @@
 
 
-Subject: Welcome to SeamAfrica
+Subject: Welcome to [Company Name ] 
 
-Hello Jariss,
+Hello [Customer Name] 
 
 Thank you for joining us.
 
@@ -12,5 +12,5 @@ If you have any questions, simply reply to this email and our team will be happy
 
 Best regards,
 
-Joy
-Customer Support
+
+Customer Support Team 
