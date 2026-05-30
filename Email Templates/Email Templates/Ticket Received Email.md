@@ -1,0 +1,46 @@
+Ticket Received Confirmation Email Template
+
+Purpose
+This template is used to acknowledge a customer's complaint or support request and confirm that a ticket has been created in the support system.
+
+---
+
+When to Use
+- Customer submits a support request via email or help desk
+- Customer reports a technical issue or complaint
+- Customer needs assistance with an order, account, or service
+
+---
+
+Template
+
+Subject: We’ve Received Your Support Request (Ticket [Ticket Number])
+
+Hello [Customer Name],
+
+Thank you for contacting our support team.
+
+We want to let you know that we have successfully received your request and a support ticket has been created for your issue.
+
+Ticket Details:
+- Ticket Number: [Ticket Number]
+- Issue Summary: [Brief description of issue]
+
+Our support team is currently reviewing your request, and one of our agents will get back to you within 24 hours.
+
+In the meantime, you can track your ticket status here:
+[Insert Ticket Tracking Link]
+
+If you have any additional information that may help us resolve your issue faster, feel free to reply to this message.
+
+We appreciate your patience and understanding.
+
+Kind regards,  
+Customer Support Team
+
+---
+
+Notes
+- Always personalize the customer name when sending
+- Ensure ticket number is auto-generated from CRM system
+- Response time may vary depending on SLA (Service Level Agreement)
