@@ -18,5 +18,5 @@ I enjoy helping customers solve problems, documenting processes, and improving c
 ## What's Inside
 
 Bug Report Template: How I document software issues for developers.
-Customer Macros:Saved responses for high-stress customer situations.
-Portfolio Projects. 
+Customer Macros: Saved responses for high-stress customer situations. 
+Portfolio projects
